@@ -1,0 +1,13 @@
+{
+  "name": "app",
+  "version": "0.0.0",
+  "description": "Demo App",
+  "main": "index.js",
+  "repository": "https://github.com/abishekm86/learn-cs-with-js.git",
+  "author": "AbishekM",
+  "license": "MIT",
+  "private": false,
+  "dependencies": {
+    "ds": "^0.0.0"
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "name": "ds",
+  "version": "0.0.0",
+  "description": "Collection of Data Structures implemented in JavaScript",
+  "main": "index.js",
+  "repository": "https://github.com/abishekm86/learn-cs-with-js.git",
+  "author": "AbishekM",
+  "license": "MIT",
+  "private": false
+}
