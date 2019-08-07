@@ -1,2 +1,4 @@
-# learn-cs-with-js
-Learn Computer Science with JavaScript
+# Become a Frontend Master
+
+## Setup
+See [setup](./wiki/setup.md) to get started.

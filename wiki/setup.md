@@ -1,4 +1,5 @@
 ## Setup
+  **Install git:** See wiki on [git](git.md) \
   **Install node:** https://nodejs.org/en/ \
   **Install yarn:** `brew install yarn` \
   **Add global node_modules to exports:** Add `export NODE_PATH=/usr/lib/node_modules:/usr/local/lib/node_modules` to `~/.bashrc` or `/.bash_profile` \
