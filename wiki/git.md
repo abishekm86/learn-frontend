@@ -11,7 +11,8 @@
   **Auto push to remote:** `git config --global push.default current` \
   **Auto-rebase on pull:** `git config --global branch.autosetuprebase always` \
   **Create new branch that tracks master:** `git config --global alias.br 'checkout --track origin/master -b'` \
-  **Set VSCode as defualt editor:** `git config --global core.editor "code --wait"`
+  **Set VSCode as defualt editor:** `git config --global core.editor "code --wait"` \
+  **Set autostash on git pull:** `git config --global rebase.autoStash true`
 
 ## Tools
   **Git prompt:** https://github.com/magicmonty/bash-git-prompt \
