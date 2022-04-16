@@ -15,7 +15,7 @@
   **Set autostash on git pull:** `git config --global rebase.autoStash true`
 
 ## Tools
-  **Git prompt:** https://github.com/magicmonty/bash-git-prompt \
+  **Git prompt:** https://github.com/olivierverdier/zsh-git-prompt \
   **Git completion:** https://github.com/git/git/blob/master/contrib/completion/git-completion.bash \
   **VSCode extension:** https://marketplace.visualstudio.com/items?itemName=eamodio.gitlens
 
