@@ -16,6 +16,7 @@
 
 ## Tools
   **Git prompt:** https://github.com/olivierverdier/zsh-git-prompt \
+  **Better Git prompt:** https://dev.to/pratik_kale/customise-your-terminal-using-zsh-powerlevel10k-1og5 \
   **Git completion:** https://github.com/git/git/blob/master/contrib/completion/git-completion.bash \
   **VSCode extension:** https://marketplace.visualstudio.com/items?itemName=eamodio.gitlens
 
